@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| The Telltale Batman Shadows Edition | 2026-05-14 → 2026-05-21 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-02) |
-| Sunderfolk - Standard Edition | 2026-05-14 → 2026-05-21 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026) |
-| Mystery Game Week 21 Game 2 | 2026-05-21 → 2026-05-28 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game2) |
-| Mystery Game Week 21 Game 1 | 2026-05-21 → 2026-05-28 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game1) |
+| Down in Bermuda | 2026-05-21 → 2026-05-28 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game2) |
+| Tomb Raider I-III Remastered Starring Lara Croft | 2026-05-21 → 2026-05-28 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game1) |
+| Mystery Game Week 22 Game 1 | 2026-05-28 → 2026-06-04 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week22-game1) |
+| Mystery Game Week 22 Game 2 | 2026-05-28 → 2026-06-04 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week22-game2) |
 
 <!-- END_GAMES_TABLE -->
 
