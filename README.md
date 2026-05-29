@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Down in Bermuda | 2026-05-21 → 2026-05-28 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game2) |
-| Tomb Raider I-III Remastered Starring Lara Croft | 2026-05-21 → 2026-05-28 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game1) |
-| Mystery Game Week 22 Game 1 | 2026-05-28 → 2026-06-04 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week22-game1) |
-| Mystery Game Week 22 Game 2 | 2026-05-28 → 2026-06-04 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week22-game2) |
+| LONESTAR | 2026-05-28 → 2026-06-04 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week22-game1) |
+| Calico | 2026-05-28 → 2026-06-04 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week22-game2) |
+| Mystery Game Week 23 Game 2 | 2026-06-04 → 2026-06-11 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week23-game2) |
+| Mystery Game Week 23 Game 1 | 2026-06-04 → 2026-06-11 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week23-game1) |
 
 <!-- END_GAMES_TABLE -->
 
