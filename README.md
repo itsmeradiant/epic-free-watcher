@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| LONESTAR | 2026-05-28 → 2026-06-04 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week22-game1) |
-| Calico | 2026-05-28 → 2026-06-04 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week22-game2) |
-| Mystery Game Week 23 Game 2 | 2026-06-04 → 2026-06-11 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week23-game2) |
-| Mystery Game Week 23 Game 1 | 2026-06-04 → 2026-06-11 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week23-game1) |
+| Rogue Waters | 2026-06-04 → 2026-06-11 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week23-game2) |
+| Songs of Conquest | 2026-06-04 → 2026-06-11 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week23-game1) |
+| The Ouroboros King | 2026-06-11 → 2026-06-18 | [Store Page](https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547) |
+| Warhammer 40K Speed Freeks | 2026-06-11 → 2026-06-18 | [Store Page](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c) |
 
 <!-- END_GAMES_TABLE -->
 
