@@ -35,8 +35,8 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Rogue Waters | 2026-06-04 → 2026-06-11 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week23-game2) |
-| Songs of Conquest | 2026-06-04 → 2026-06-11 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week23-game1) |
+| Citizen Sleeper | 2026-06-18 → 2026-06-25 | [Store Page](https://store.epicgames.com/en-US/p/citizen-sleeper-944858) |
+| ROBOBEAT | 2026-06-18 → 2026-06-25 | [Store Page](https://store.epicgames.com/en-US/p/robobeat-5f084b) |
 | The Ouroboros King | 2026-06-11 → 2026-06-18 | [Store Page](https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547) |
 | Warhammer 40K Speed Freeks | 2026-06-11 → 2026-06-18 | [Store Page](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c) |
 
