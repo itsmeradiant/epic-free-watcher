@@ -1,17 +1,10 @@
 [
   {
-    "title": "Citizen Sleeper",
-    "description": "Roleplaying in the ruins of interplanetary capitalism. Live the life of an escaped worker, washed-up on a lawless station at the edge of an interstellar society. Inspired by the flexibility and freedom of TTRPGs, choose your friends, escape your past and change your future.",
-    "url": "https://store.epicgames.com/en-US/p/citizen-sleeper-944858",
-    "startDate": "2026-06-18",
-    "endDate": "2026-06-25"
-  },
-  {
-    "title": "ROBOBEAT",
-    "description": "Keep your trigger finger on the pulse! In rhythm shooter ROBOBEAT, you'll play as Ace - a bounty hunter on a mission to capture robot-gone-rogue Frazzer. Wall run, slide, and shoot to your own beat using the in-game custom music editor, blasting through Frazzer's armies!",
-    "url": "https://store.epicgames.com/en-US/p/robobeat-5f084b",
-    "startDate": "2026-06-18",
-    "endDate": "2026-06-25"
+    "title": "RollerCoaster Tycoon 3 Complete Edition",
+    "description": "Build the park of a lifetime and rediscover the critically acclaimed rollercoaster simulation bestseller. Feel the thrill of a genre-defining classic, complete with two huge expansion packs.",
+    "url": "https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition",
+    "startDate": "2026-06-25",
+    "endDate": "2026-07-02"
   },
   {
     "title": "Voidwrought",
@@ -19,5 +12,19 @@
     "url": "https://store.epicgames.com/en-US/p/voidwrought-ce8f4b",
     "startDate": "2026-06-25",
     "endDate": "2026-07-02"
+  },
+  {
+    "title": "River City Girls 2",
+    "description": "A pixel-art sci-fi adventure set in the midst of a rebellion against a totalitarian regime, LUNARK is a modern take on the 2D cinematic platformer genre of the '90s. Run, jump, hang, climb, roll, and shoot your way through gorgeous and mysterious locations!",
+    "url": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
+    "startDate": "2026-07-02",
+    "endDate": "2026-07-09"
+  },
+  {
+    "title": "I Have No Mouth, and I Must Scream",
+    "description": "The Allied Mastercomputer has destroyed all of humanity except for five people, whom it has been keeping them alive and torturing them for the past one hundred and nine years by designing virtual adventures based on their fears and weaknesses.",
+    "url": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+    "startDate": "2026-07-02",
+    "endDate": "2026-07-09"
   }
 ]

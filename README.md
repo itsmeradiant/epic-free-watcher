@@ -35,9 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Citizen Sleeper | 2026-06-18 → 2026-06-25 | [Store Page](https://store.epicgames.com/en-US/p/citizen-sleeper-944858) |
-| ROBOBEAT | 2026-06-18 → 2026-06-25 | [Store Page](https://store.epicgames.com/en-US/p/robobeat-5f084b) |
+| RollerCoaster Tycoon 3 Complete Edition | 2026-06-25 → 2026-07-02 | [Store Page](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition) |
 | Voidwrought | 2026-06-25 → 2026-07-02 | [Store Page](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b) |
+| River City Girls 2 | 2026-07-02 → 2026-07-09 | [Store Page](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a) |
+| I Have No Mouth, and I Must Scream | 2026-07-02 → 2026-07-09 | [Store Page](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2) |
 
 <!-- END_GAMES_TABLE -->
 
