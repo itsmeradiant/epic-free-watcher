@@ -1,10 +1,17 @@
 [
   {
-    "title": "River City Girls 2",
-    "description": "A pixel-art sci-fi adventure set in the midst of a rebellion against a totalitarian regime, LUNARK is a modern take on the 2D cinematic platformer genre of the '90s. Run, jump, hang, climb, roll, and shoot your way through gorgeous and mysterious locations!",
-    "url": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
-    "startDate": "2026-07-02",
-    "endDate": "2026-07-09"
+    "title": "Nova Lands",
+    "description": "Nova Lands is a factory building, exploration, and island management game. Explore, engage in combat, and automate your industry. The planet you\u2019re on is full of mysteries, creatures, people, and things to do. Welcome to your new home amongst the stars!",
+    "url": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-16"
+  },
+  {
+    "title": "Luto",
+    "description": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
+    "url": "https://store.epicgames.com/en-US/p/luto-0a4ab3",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-23"
   },
   {
     "title": "Tattoo Tycoon",
@@ -14,10 +21,10 @@
     "endDate": "2026-07-16"
   },
   {
-    "title": "I Have No Mouth, and I Must Scream",
-    "description": "The Allied Mastercomputer has destroyed all of humanity except for five people, whom it has been keeping them alive and torturing them for the past one hundred and nine years by designing virtual adventures based on their fears and weaknesses.",
-    "url": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
-    "startDate": "2026-07-02",
-    "endDate": "2026-07-09"
+    "title": "Echo Generation: Midnight Edition",
+    "description": "Lead a gang of kids to uncover spooky mysteries, battle creatures, and explore the supernatural side of your hometown in Echo Generation, a turn-based adventure set in the 90s.",
+    "url": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-23"
   }
 ]

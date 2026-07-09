@@ -35,9 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| River City Girls 2 | 2026-07-02 → 2026-07-09 | [Store Page](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a) |
+| Nova Lands | 2026-07-09 → 2026-07-16 | [Store Page](https://store.epicgames.com/en-US/p/nova-lands-4d1788) |
+| Luto | 2026-07-16 → 2026-07-23 | [Store Page](https://store.epicgames.com/en-US/p/luto-0a4ab3) |
 | Tattoo Tycoon | 2026-07-09 → 2026-07-16 | [Store Page](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c) |
-| I Have No Mouth, and I Must Scream | 2026-07-02 → 2026-07-09 | [Store Page](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2) |
+| Echo Generation: Midnight Edition | 2026-07-16 → 2026-07-23 | [Store Page](https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026) |
 
 <!-- END_GAMES_TABLE -->
 
