@@ -35,9 +35,7 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Nova Lands | 2026-07-09 → 2026-07-16 | [Store Page](https://store.epicgames.com/en-US/p/nova-lands-4d1788) |
 | Luto | 2026-07-16 → 2026-07-23 | [Store Page](https://store.epicgames.com/en-US/p/luto-0a4ab3) |
-| Tattoo Tycoon | 2026-07-09 → 2026-07-16 | [Store Page](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c) |
 | Echo Generation: Midnight Edition | 2026-07-16 → 2026-07-23 | [Store Page](https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026) |
 
 <!-- END_GAMES_TABLE -->
