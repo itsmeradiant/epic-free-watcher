@@ -35,8 +35,7 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Luto | 2026-07-16 → 2026-07-23 | [Store Page](https://store.epicgames.com/en-US/p/luto-0a4ab3) |
-| Echo Generation: Midnight Edition | 2026-07-16 → 2026-07-23 | [Store Page](https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026) |
+| Sol Cesto | 2026-07-30 → 2026-08-06 | [Store Page](https://store.epicgames.com/en-US/p/sol-cesto-e9b803) |
 
 <!-- END_GAMES_TABLE -->
 
