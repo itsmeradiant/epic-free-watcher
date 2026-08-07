@@ -36,9 +36,8 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Beacon Pines | 2026-08-06 → 2026-08-13 | [Store Page](https://store.epicgames.com/en-US/p/beacon-pines-629fc3) |
+| Caravan SandWitch | 2026-08-13 → 2026-08-20 | [Store Page](https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58) |
 | We Were Here Together | 2026-08-06 → 2026-08-13 | [Store Page](https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66) |
-| OTXO | 2026-07-30 → 2026-08-06 | [Store Page](https://store.epicgames.com/en-US/p/otxo-396b8b) |
-| Sol Cesto | 2026-07-30 → 2026-08-06 | [Store Page](https://store.epicgames.com/en-US/p/sol-cesto-e9b803) |
 
 <!-- END_GAMES_TABLE -->
 
