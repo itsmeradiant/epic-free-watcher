@@ -35,9 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Beacon Pines | 2026-08-06 → 2026-08-13 | [Store Page](https://store.epicgames.com/en-US/p/beacon-pines-629fc3) |
+| Cardpocalypse Standard Edition | 2026-08-20 → 2026-08-27 | [Store Page](https://store.epicgames.com/en-US/p/cardpocalypse) |
 | Caravan SandWitch | 2026-08-13 → 2026-08-20 | [Store Page](https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58) |
-| We Were Here Together | 2026-08-06 → 2026-08-13 | [Store Page](https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66) |
+| Epic Mage Bundle | 2026-08-20 → 2026-08-27 | [Store Page](https://store.epicgames.com/en-US/p/albion-online-7eb24d) |
 
 <!-- END_GAMES_TABLE -->
 
