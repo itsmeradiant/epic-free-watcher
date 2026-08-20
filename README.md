@@ -36,8 +36,9 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Cardpocalypse Standard Edition | 2026-08-20 → 2026-08-27 | [Store Page](https://store.epicgames.com/en-US/p/cardpocalypse) |
-| Caravan SandWitch | 2026-08-13 → 2026-08-20 | [Store Page](https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58) |
+| Breathedge | 2026-08-27 → 2026-09-03 | [Store Page](https://store.epicgames.com/en-US/p/breathedge) |
 | Epic Mage Bundle | 2026-08-20 → 2026-08-27 | [Store Page](https://store.epicgames.com/en-US/p/albion-online-7eb24d) |
+| Rival Stars Horse Racing : Desktop Edition | 2026-08-27 → 2026-09-03 | [Store Page](https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de) |
 
 <!-- END_GAMES_TABLE -->
 
