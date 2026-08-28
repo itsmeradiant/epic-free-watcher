@@ -1,12 +1,5 @@
 [
   {
-    "title": "Cardpocalypse Standard Edition",
-    "description": "10-year old Jess accidentally gets everybody's favorite collectible card game banned in Dudsdale Elementary - even worse, it\u2019s her first day! But when troubles arise and mutants from the game start to come to life, and it\u2019s up to Jess and her friends to stop them. Become a Meg...",
-    "url": "https://store.epicgames.com/en-US/p/cardpocalypse",
-    "startDate": "2026-08-20",
-    "endDate": "2026-08-27"
-  },
-  {
     "title": "Breathedge",
     "description": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
     "url": "https://store.epicgames.com/en-US/p/breathedge",
@@ -14,17 +7,17 @@
     "endDate": "2026-09-03"
   },
   {
-    "title": "Epic Mage Bundle",
-    "description": "Claim a magical Free Gift valued at more than $55! Enhance your Albion journey with enchanted vanity items, two unique mount skins, and a treasure trove of essential progression rewards.",
-    "url": "https://store.epicgames.com/en-US/p/albion-online-7eb24d",
-    "startDate": "2026-08-20",
-    "endDate": "2026-08-27"
-  },
-  {
     "title": "Rival Stars Horse Racing : Desktop Edition",
     "description": "With stunning, realistic horses, an in-depth breeding system, and a range of exciting game modes, Rival Stars Horse Racing offers horse fans the ultimate racing and riding experience. Take the reins and become an equestrian legend!",
     "url": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
     "startDate": "2026-08-27",
     "endDate": "2026-09-03"
+  },
+  {
+    "title": "Alone With You",
+    "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
+    "url": "https://store.epicgames.com/en-US/p/alone-with-you-028a15",
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-10"
   }
 ]
