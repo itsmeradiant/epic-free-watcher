@@ -35,9 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Breathedge | 2026-08-27 → 2026-09-03 | [Store Page](https://store.epicgames.com/en-US/p/breathedge) |
-| Rival Stars Horse Racing : Desktop Edition | 2026-08-27 → 2026-09-03 | [Store Page](https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de) |
 | Alone With You | 2026-09-03 → 2026-09-10 | [Store Page](https://store.epicgames.com/en-US/p/alone-with-you-028a15) |
+| Luftrausers | 2026-09-10 → 2026-09-17 | [Store Page](https://store.epicgames.com/en-US/p/luftrausers-51e5e9) |
+| Astral Ascent | 2026-09-10 → 2026-09-17 | [Store Page](https://store.epicgames.com/en-US/p/astral-ascent-b33bc2) |
 
 <!-- END_GAMES_TABLE -->
 
