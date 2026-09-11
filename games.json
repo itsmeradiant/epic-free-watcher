@@ -1,12 +1,5 @@
 [
   {
-    "title": "Alone With You",
-    "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
-    "url": "https://store.epicgames.com/en-US/p/alone-with-you-028a15",
-    "startDate": "2026-09-03",
-    "endDate": "2026-09-10"
-  },
-  {
     "title": "Luftrausers",
     "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer\u2019s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
     "url": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
@@ -19,5 +12,19 @@
     "url": "https://store.epicgames.com/en-US/p/astral-ascent-b33bc2",
     "startDate": "2026-09-10",
     "endDate": "2026-09-17"
+  },
+  {
+    "title": "Mindcop",
+    "description": "Mindcop is a non-linear \u201ewhodunnit\u201c detective game. It mixes a story driven adventure with real-time match-3 puzzle. As the infamous Mindcop, you can dive into the minds of your suspects to uncover their secrets and unravel their lies.\u200b",
+    "url": "https://store.epicgames.com/en-US/p/mindcop-78e6c1",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-24"
+  },
+  {
+    "title": "Shogun Showdown",
+    "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
+    "url": "https://store.epicgames.com/en-US/p/shogun-showdown-61832d",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-24"
   }
 ]

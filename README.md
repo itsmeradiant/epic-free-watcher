@@ -35,9 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Alone With You | 2026-09-03 → 2026-09-10 | [Store Page](https://store.epicgames.com/en-US/p/alone-with-you-028a15) |
 | Luftrausers | 2026-09-10 → 2026-09-17 | [Store Page](https://store.epicgames.com/en-US/p/luftrausers-51e5e9) |
 | Astral Ascent | 2026-09-10 → 2026-09-17 | [Store Page](https://store.epicgames.com/en-US/p/astral-ascent-b33bc2) |
+| Mindcop | 2026-09-17 → 2026-09-24 | [Store Page](https://store.epicgames.com/en-US/p/mindcop-78e6c1) |
+| Shogun Showdown | 2026-09-17 → 2026-09-24 | [Store Page](https://store.epicgames.com/en-US/p/shogun-showdown-61832d) |
 
 <!-- END_GAMES_TABLE -->
 
