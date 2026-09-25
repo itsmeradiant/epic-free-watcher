@@ -36,9 +36,9 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Astrea Six Sided Oracles | 2026-09-24 → 2026-10-01 | [Store Page](https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949) |
+| System Shock 2: 25th Anniversary Remaster | 2026-10-01 → 2026-10-08 | [Store Page](https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9) |
 | Mechabellum | 2026-09-24 → 2026-10-01 | [Store Page](https://store.epicgames.com/en-US/p/mechabellum-88a843) |
-| Mindcop | 2026-09-17 → 2026-09-24 | [Store Page](https://store.epicgames.com/en-US/p/mindcop-78e6c1) |
-| Shogun Showdown | 2026-09-17 → 2026-09-24 | [Store Page](https://store.epicgames.com/en-US/p/shogun-showdown-61832d) |
+| BURIED STARS | 2026-10-01 → 2026-10-08 | [Store Page](https://store.epicgames.com/en-US/p/buried-stars-d7c88c) |
 
 <!-- END_GAMES_TABLE -->
 
