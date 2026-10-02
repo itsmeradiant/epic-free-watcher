@@ -1,10 +1,10 @@
 [
   {
-    "title": "Astrea Six Sided Oracles",
-    "description": "An all new dice-deck-building roguelike, Astrea, has you chart a path through the ruins of a lost civilization as one of six brave Oracles. Using an ever-changing deck of dice and enchanted Sentinels, Purify waves of Corrupted foes and a decayed goddess to save the Star System.",
-    "url": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
-    "startDate": "2026-09-24",
-    "endDate": "2026-10-01"
+    "title": "Out of Sight",
+    "description": "You\u2019re Sophie, a young blind girl who sees through her teddy bear\u2019s eyes. Escape your captors and uncover the evil history of the dark mansion you desperately seek to escape in this unique, atmospheric horror puzzle/adventure game.",
+    "url": "https://store.epicgames.com/en-US/p/out-of-sight-b96ca8",
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-15"
   },
   {
     "title": "System Shock 2: 25th Anniversary Remaster",
@@ -14,17 +14,17 @@
     "endDate": "2026-10-08"
   },
   {
-    "title": "Mechabellum",
-    "description": "Command massive armies in this epic mech auto-battler. Draft your troops, customize your units, master your formations, and crush enemies in spectacular 3D battles. All strategy, no clickfest. Outsmart opponents in 1v1, 2v2, free-for-all, or Survival Mode.",
-    "url": "https://store.epicgames.com/en-US/p/mechabellum-88a843",
-    "startDate": "2026-09-24",
-    "endDate": "2026-10-01"
-  },
-  {
     "title": "BURIED STARS",
     "description": "A mystery adventure set at the collapse site of a live survival audition show.\nTrapped contestants communicate with each other\u2014and the outside world through social media\u2014as they wait for rescue. But trust begins to crack, and survival becomes far more complicated.",
     "url": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
     "startDate": "2026-10-01",
     "endDate": "2026-10-08"
+  },
+  {
+    "title": "TerraScape",
+    "description": "Build gorgeous kingdoms on floating islands by strategically placing buildings in this cozy, medieval City-Puzzler. Discover secret combinations, take on monthly challenges and explore randomly generated maps in various single- and multiplayer game modes.",
+    "url": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-15"
   }
 ]

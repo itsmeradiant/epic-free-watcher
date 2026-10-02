@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Astrea Six Sided Oracles | 2026-09-24 → 2026-10-01 | [Store Page](https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949) |
+| Out of Sight | 2026-10-08 → 2026-10-15 | [Store Page](https://store.epicgames.com/en-US/p/out-of-sight-b96ca8) |
 | System Shock 2: 25th Anniversary Remaster | 2026-10-01 → 2026-10-08 | [Store Page](https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9) |
-| Mechabellum | 2026-09-24 → 2026-10-01 | [Store Page](https://store.epicgames.com/en-US/p/mechabellum-88a843) |
 | BURIED STARS | 2026-10-01 → 2026-10-08 | [Store Page](https://store.epicgames.com/en-US/p/buried-stars-d7c88c) |
+| TerraScape | 2026-10-08 → 2026-10-15 | [Store Page](https://store.epicgames.com/en-US/p/terrascape-2b12b1) |
 
 <!-- END_GAMES_TABLE -->
 
