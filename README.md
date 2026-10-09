@@ -36,8 +36,8 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Out of Sight | 2026-10-08 → 2026-10-15 | [Store Page](https://store.epicgames.com/en-US/p/out-of-sight-b96ca8) |
-| System Shock 2: 25th Anniversary Remaster | 2026-10-01 → 2026-10-08 | [Store Page](https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9) |
-| BURIED STARS | 2026-10-01 → 2026-10-08 | [Store Page](https://store.epicgames.com/en-US/p/buried-stars-d7c88c) |
+| Bad Cheese | 2026-10-15 → 2026-10-22 | [Store Page](https://store.epicgames.com/en-US/p/bad-cheese-4256d9) |
+| Agent A: A puzzle in disguise | 2026-10-15 → 2026-10-22 | [Store Page](https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f) |
 | TerraScape | 2026-10-08 → 2026-10-15 | [Store Page](https://store.epicgames.com/en-US/p/terrascape-2b12b1) |
 
 <!-- END_GAMES_TABLE -->
