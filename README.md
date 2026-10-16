@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Out of Sight | 2026-10-08 → 2026-10-15 | [Store Page](https://store.epicgames.com/en-US/p/out-of-sight-b96ca8) |
+| Sker Ritual | 2026-10-22 → 2026-10-29 | [Store Page](https://store.epicgames.com/en-US/p/sker-ritual-aac702) |
 | Bad Cheese | 2026-10-15 → 2026-10-22 | [Store Page](https://store.epicgames.com/en-US/p/bad-cheese-4256d9) |
 | Agent A: A puzzle in disguise | 2026-10-15 → 2026-10-22 | [Store Page](https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f) |
-| TerraScape | 2026-10-08 → 2026-10-15 | [Store Page](https://store.epicgames.com/en-US/p/terrascape-2b12b1) |
+| Home - A Unique Horror Adventure | 2026-10-22 → 2026-10-29 | [Store Page](https://store.epicgames.com/en-US/p/home-19212a) |
 
 <!-- END_GAMES_TABLE -->
 
