@@ -36,8 +36,6 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Sker Ritual | 2026-10-22 → 2026-10-29 | [Store Page](https://store.epicgames.com/en-US/p/sker-ritual-aac702) |
-| Bad Cheese | 2026-10-15 → 2026-10-22 | [Store Page](https://store.epicgames.com/en-US/p/bad-cheese-4256d9) |
-| Agent A: A puzzle in disguise | 2026-10-15 → 2026-10-22 | [Store Page](https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f) |
 | Home - A Unique Horror Adventure | 2026-10-22 → 2026-10-29 | [Store Page](https://store.epicgames.com/en-US/p/home-19212a) |
 
 <!-- END_GAMES_TABLE -->
