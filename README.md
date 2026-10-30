@@ -35,8 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Sker Ritual | 2026-10-22 → 2026-10-29 | [Store Page](https://store.epicgames.com/en-US/p/sker-ritual-aac702) |
-| Home - A Unique Horror Adventure | 2026-10-22 → 2026-10-29 | [Store Page](https://store.epicgames.com/en-US/p/home-19212a) |
+| Idle Champions of the Forgotten Realms | 2026-11-05 → 2026-11-12 | [Store Page](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms) |
+| Sorry We're Closed | 2026-10-29 → 2026-11-05 | [Store Page](https://store.epicgames.com/en-US/p/sorry-were-closed-724c86) |
+| Flotsam | 2026-11-05 → 2026-11-12 | [Store Page](https://store.epicgames.com/en-US/p/flotsam-266287) |
 
 <!-- END_GAMES_TABLE -->
 

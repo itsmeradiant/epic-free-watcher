@@ -1,16 +1,23 @@
 [
   {
-    "title": "Sker Ritual",
-    "description": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
-    "url": "https://store.epicgames.com/en-US/p/sker-ritual-aac702",
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-29"
+    "title": "Idle Champions of the Forgotten Realms",
+    "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
+    "url": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-12"
   },
   {
-    "title": "Home - A Unique Horror Adventure",
-    "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It\u2019s a murder mystery with a twist \u2013 because you decide what ultimately happens.",
-    "url": "https://store.epicgames.com/en-US/p/home-19212a",
-    "startDate": "2026-10-22",
-    "endDate": "2026-10-29"
+    "title": "Sorry We're Closed",
+    "description": "Sorry We're Closed is a story-driven survival horror game about demons, angels and what happens when both sides collide. A mix of fixed-camera exploration and arcade-style shooting where Michelle must use her Third Eye to see between worlds, uncover secrets and solve puzzles.",
+    "url": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
+    "startDate": "2026-10-29",
+    "endDate": "2026-11-05"
+  },
+  {
+    "title": "Flotsam",
+    "description": "The floating garbage town survival game! Scavenge what precious garbage you can from the ocean's surface and grow your city while doing your best to survive in this colorful post-apocalyptic world.",
+    "url": "https://store.epicgames.com/en-US/p/flotsam-266287",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-12"
   }
 ]
