@@ -36,8 +36,8 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Idle Champions of the Forgotten Realms | 2026-11-05 → 2026-11-12 | [Store Page](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms) |
-| Sorry We're Closed | 2026-10-29 → 2026-11-05 | [Store Page](https://store.epicgames.com/en-US/p/sorry-were-closed-724c86) |
 | Flotsam | 2026-11-05 → 2026-11-12 | [Store Page](https://store.epicgames.com/en-US/p/flotsam-266287) |
+| Knightica | 2026-11-12 → 2026-11-19 | [Store Page](https://store.epicgames.com/en-US/p/knightica-3be45c) |
 
 <!-- END_GAMES_TABLE -->
 

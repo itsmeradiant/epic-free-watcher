@@ -7,17 +7,17 @@
     "endDate": "2026-11-12"
   },
   {
-    "title": "Sorry We're Closed",
-    "description": "Sorry We're Closed is a story-driven survival horror game about demons, angels and what happens when both sides collide. A mix of fixed-camera exploration and arcade-style shooting where Michelle must use her Third Eye to see between worlds, uncover secrets and solve puzzles.",
-    "url": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
-    "startDate": "2026-10-29",
-    "endDate": "2026-11-05"
-  },
-  {
     "title": "Flotsam",
     "description": "The floating garbage town survival game! Scavenge what precious garbage you can from the ocean's surface and grow your city while doing your best to survive in this colorful post-apocalyptic world.",
     "url": "https://store.epicgames.com/en-US/p/flotsam-266287",
     "startDate": "2026-11-05",
     "endDate": "2026-11-12"
+  },
+  {
+    "title": "Knightica",
+    "description": "Recruit units, place them strategically, and find the synergies in this Roguelike AutoBattler!\nKnightica lets you guide a warband through challenges to free the Kingdoms.\nDiscover combinations, weave powerful enchants, face dangerous monsters, and lead your army to victory!",
+    "url": "https://store.epicgames.com/en-US/p/knightica-3be45c",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-19"
   }
 ]
