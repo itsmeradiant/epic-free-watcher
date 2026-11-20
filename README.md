@@ -35,9 +35,8 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Alien: Isolation | 2026-11-19 → 2026-11-26 | [Store Page](https://store.epicgames.com/en-US/p/alien-isolation) |
+| Firestone – Idle Clicker Online RPG | 2026-11-26 → 2026-12-03 | [Store Page](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
 | Mark of the Deep | 2026-11-19 → 2026-11-26 | [Store Page](https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08) |
-| Knightica | 2026-11-12 → 2026-11-19 | [Store Page](https://store.epicgames.com/en-US/p/knightica-3be45c) |
 
 <!-- END_GAMES_TABLE -->
 
