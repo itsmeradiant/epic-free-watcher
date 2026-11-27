@@ -36,7 +36,8 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Firestone – Idle Clicker Online RPG | 2026-11-26 → 2026-12-03 | [Store Page](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
-| Mark of the Deep | 2026-11-19 → 2026-11-26 | [Store Page](https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08) |
+| Bread and Fred | 2026-11-26 → 2026-12-03 | [Store Page](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) |
+| Strange Antiquities | 2026-12-03 → 2026-12-10 | [Store Page](https://store.epicgames.com/en-US/p/strange-antiquities-e37660) |
 
 <!-- END_GAMES_TABLE -->
 

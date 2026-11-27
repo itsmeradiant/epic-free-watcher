@@ -7,10 +7,17 @@
     "endDate": "2026-12-03"
   },
   {
-    "title": "Mark of the Deep",
-    "description": "Mark of the Deep is an epic pirate-themed adventure with a strong narrative and a thrilling mix of Metroidvania and Souls-Like elements. Embark on this journey, explore the mysteries of a cursed island and find your missing pirate crew!",
-    "url": "https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08",
-    "startDate": "2026-11-19",
-    "endDate": "2026-11-26"
+    "title": "Bread and Fred",
+    "description": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble all the way back down the mountain.",
+    "url": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362",
+    "startDate": "2026-11-26",
+    "endDate": "2026-12-03"
+  },
+  {
+    "title": "Strange Antiquities",
+    "description": "Strange Antiquities is a game set in Undermere, where you explore occult artifacts and solve dark mysteries. As an apprentice thaumaturge, you'll identify magical items and help townsfolk. A sequel to Strange Horticulture, it blends exploration to uncover strange secrets.",
+    "url": "https://store.epicgames.com/en-US/p/strange-antiquities-e37660",
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-10"
   }
 ]
